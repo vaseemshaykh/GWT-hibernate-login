@@ -1,0 +1,3 @@
+# Module sample_gwt_project_one
+# RPC service class, partial path of RPC policy file
+com.nitya.hibernate.client.GreetingService, 599ED0C4797C0853D44AE7990D84615A.gwt.rpc

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  When updating your version of GWT, you should also update this DTD reference,
+  so that your app can take advantage of the latest GWT module capabilities.
+-->
+<module rename-to='sample_gwt_project_one'>
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.nitya.hibernate.Sample_GWT_project_one'/>
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/sample_gwt_project_one/greet" class="com.nitya.hibernate.server.GreetingServiceImpl" />
+
+</module>

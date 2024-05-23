@@ -1,0 +1,2 @@
+serviceClass: com.nitya.hibernate.client.GreetingService
+path: 599ED0C4797C0853D44AE7990D84615A.gwt.rpc
